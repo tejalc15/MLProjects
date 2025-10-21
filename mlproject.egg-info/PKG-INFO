@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: mlproject
+Version: 0.1.0
+Author: Tejal Chalke
+Author-email: tejal.c15@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: seaborn
